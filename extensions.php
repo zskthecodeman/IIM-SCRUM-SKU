@@ -17,10 +17,10 @@ if (isset($_FILES['monfichier']) AND $_FILES['monfichier']['error'] == 0)
 }
 ?>
 
-SECURISER LE FORMULAIRE DE CONTACT
+<!--SECURISER LE FORMULAIRE DE CONTACT-->
 
  <?php
-//tout dabord il faut verifier que tous les champs soit remplits avec la bonne forme (email doit etre composé d'un @ et d'un email valide
+//tout d'abord il faut verifier que tous les champs soit remplis avec la bonne forme (email doit etre composé d'un @ et d'un email valide)
 if(isset($_POST['submit'])){
         $name = htmlspecialchars(stripslashes(trim($_POST['name'])));
         $subject = htmlspecialchars(stripslashes(trim($_POST['subject'])));
