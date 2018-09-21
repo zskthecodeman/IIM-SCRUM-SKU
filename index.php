@@ -11,7 +11,7 @@
 
 <body>
 
-<a href="test_CRUD/index.php">FICHIER AJOUTER</a>
+<a href="test_CRUD/index.php">FICHIER AJOUTEey</a>
 
 </body>
 
