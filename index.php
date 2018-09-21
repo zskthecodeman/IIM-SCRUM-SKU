@@ -11,7 +11,7 @@
 
 <body>
 
-<a href="test_CRUD/index.php">Section Envoie de fichier</a>
+<a href="upload_files/index.php">Section Envoie de fichier</a>
 
 </body>
 
