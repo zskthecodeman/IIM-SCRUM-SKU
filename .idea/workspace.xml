@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e39c3d67-5051-446b-9dda-87b201310f96" name="Default Changelist" comment="" />
+    <list default="true" id="e39c3d67-5051-446b-9dda-87b201310f96" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/zsk.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zsk.html" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,14 +35,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="23" />
-          <entry key="php" value="6" />
+          <entry key="html" value="41" />
+          <entry key="php" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="23" />
-          <entry key="PHP" value="6" />
+          <entry key="HTML" value="41" />
+          <entry key="PHP" value="9" />
         </counts>
       </usages-collector>
     </session>
@@ -55,10 +59,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/zsk.html">
+        <entry file="file://$PROJECT_DIR$/zsk.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+            <state relative-caret-position="-3502">
+              <caret line="306" column="18" selection-start-line="306" selection-start-column="18" selection-end-line="306" selection-end-column="18" />
+              <folding>
+                <element signature="n#style#0;n#select#0;n#div#0;n#li#3;n#ul#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#li#6;n#ul#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#7;n#ul#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -77,6 +86,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>upload</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -85,6 +99,7 @@
       <list>
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/zsk.html" />
+        <option value="$PROJECT_DIR$/zsk.php" />
       </list>
     </option>
   </component>
@@ -154,12 +169,12 @@
       <option name="presentableId" value="Default" />
       <updated>1537513796150</updated>
       <workItem from="1537513797380" duration="550000" />
-      <workItem from="1537515001454" duration="741000" />
+      <workItem from="1537515001454" duration="1679000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1291000" />
+    <option name="totallyTimeSpent" value="2229000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -203,10 +218,15 @@
     <entry file="file://$PROJECT_DIR$/config/mysql_connect.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/zsk.html">
+    <entry file="file://$PROJECT_DIR$/zsk.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        <state relative-caret-position="-3502">
+          <caret line="306" column="18" selection-start-line="306" selection-start-column="18" selection-end-line="306" selection-end-column="18" />
+          <folding>
+            <element signature="n#style#0;n#select#0;n#div#0;n#li#3;n#ul#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#6;n#ul#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#7;n#ul#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
